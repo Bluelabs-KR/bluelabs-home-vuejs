@@ -92,4 +92,7 @@ svg {
 .cls-1 {
   fill:#fff;
 }
+#app {
+  fill:#fffa;
+}
 </style>
